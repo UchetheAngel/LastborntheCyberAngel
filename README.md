@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lastbornthecyberghost
-- 👀 I’m interested in website design
+- 👀 I’m interested in Tech Dev
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on creating my first website 
+- 💞️ I’m looking to collaborate with you
 - 📫 How to reach me 09069399226 WhatsApp no..
 
 <!---
