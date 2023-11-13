@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lastbornthecyberghost
+- 👋 Hi, I’m @LastborntheCyberAngel
 - 👀 I’m interested in Tech Dev
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with you
